@@ -1,0 +1,8 @@
+version: '2'
+services:
+  nuture-api:
+    build:
+      context: ./nuture
+      dockerfile: Dockerfile
+    ports:
+      - 8080:8080
