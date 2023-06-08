@@ -64,7 +64,7 @@ public class DatabaseSeeder implements CommandLineRunner {
         // Saving users with their phones
         userRepository.saveAll(List.of(
                 User.builder().name("José Silva").cpf(84757483471L).birthday(LocalDate.of(1990, 12, 30))
-                        .email("samuel@gmail.com").weight("70kg").height("170cm")
+                        .email("jose@gmail.com").weight("70kg").height("170cm")
                         .foodFrequency(FoodFrequency.THREE_MEALS)
                         .password(encoder.encode("123456789")).sex("male")
                         .phone(new Phone(null, 55, 11, 950312033, null)).build(),

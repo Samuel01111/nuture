@@ -25,6 +25,7 @@ public class SecurityConfig {
                 .authorizeHttpRequests()
                 .requestMatchers(HttpMethod.POST, "/nuture/users").permitAll()
                 .requestMatchers(HttpMethod.POST, "/nuture/users/login").permitAll()
+                .requestMatchers(HttpMethod.GET, "/h2-console/**").permitAll()
                 .anyRequest().authenticated()
                 .and()
                 .csrf().disable().cors().and()

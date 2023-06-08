@@ -4,7 +4,10 @@ RM94269 - Douglas Welber Santos
 RM94278 - Leonardo Silva Macedo 
 RM94395 - Samuel Pereira Nascimento 
 
-Video Pitch: https://www.youtube.com/watch?v=SiXDcDJ5it0
+Video Proposta + Solucao Pitch (DIGITAL): https://www.youtube.com/watch?v=SiXDcDJ5it0
+Video Proposta + Solucao + Front + Back + Banco Funcionando (EAD): https://www.youtube.com/watch?v=rDt_Gsfb1P8
+
+
 
 API to manage recipes and smart diets to fight food insecurity
 
