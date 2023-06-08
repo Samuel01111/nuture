@@ -1,12 +1,17 @@
 # Nuture Api
 
+RM94269 - Douglas Welber Santos 
+RM94278 - Leonardo Silva Macedo 
+RM94395 - Samuel Pereira Nascimento 
+
 API to manage recipes and smart diets to fight food insecurity
 
 We aim to offer sustainable solutions to the problems of hunger and food scarcity in the world. Using Generative
 Artificial Intelligence, Technology and Innovation, the application aims to provide smart recipes and diets for people
 experiencing food insecurity. 
 
-![class diagram nuture](https://github.com/LuisaGPurificacao/nuture/assets/80494977/fd8589b8-8981-441d-8db0-fc7ba6fd6f1d)
+
+![Diagrama de classes Nuture](https://github.com/Samuel01111/nuture/assets/85126341/80898df3-1d3e-4d64-8cc8-861b0a35623b)
 
 
 ---
