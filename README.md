@@ -4,6 +4,8 @@ RM94269 - Douglas Welber Santos
 RM94278 - Leonardo Silva Macedo 
 RM94395 - Samuel Pereira Nascimento 
 
+Video Pitch: https://www.youtube.com/watch?v=SiXDcDJ5it0
+
 API to manage recipes and smart diets to fight food insecurity
 
 We aim to offer sustainable solutions to the problems of hunger and food scarcity in the world. Using Generative
